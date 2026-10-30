@@ -1,0 +1,4 @@
+plan_code,monthly_fee,rate_per_min,rate_per_gb
+BIZ-BASIC,45.0,0.08,9.0
+BIZ-PLUS,85.0,0.06,7.5
+BIZ-PRO,140.0,0.05,6.0
